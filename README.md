@@ -1,34 +1,54 @@
-# Predator OS
+# 🦾 Predator-OS
 
-```markdown
-🚀 **Predator-OS** is a free, open-source Linux distribution designed for **penetration testing**, **ethical hacking**, **privacy**, and **security hardening**. It is a community-driven project developed in 2021 by **Hossein Seilani**, who is also known for creating **Emperor-OS, Hubuntu, and Little-Psycho Linux**.
+🚀 **Predator-OS** is a cutting-edge, open-source Linux distribution designed for **penetration testing, ethical hacking, cybersecurity, privacy, and system hardening**. Developed in 2021 by **Hossein Seilani**, the creator of **Emperor-OS, Hubuntu, and Little-Psycho Linux**, Predator-OS provides a robust, feature-rich environment for security professionals, researchers, and privacy-conscious users.
 
-## 🔥 Features
+---
 
-- 🖥️ **Base System**: Built on **Debian 12 Stable** with **Linux Kernel 6.6.15 LTS**.
-- 🎨 **Multiple Desktop Environments**: Fully customized **Plasma, MATE, LXQT, and LXDE** desktops with a specialized menu.
-- 🛠️ **Pre-installed Tools**: Includes approximately **1,200 tools** organized into **40 categories** and **9 modes**.
-- 🔐 **Security & Hardening**:
-  - 🔒 Default configurations restrict non-privileged access and reduce the attack surface.
-  - 🛡️ Built-in **firewalls** and defensive tools for enhanced security.
-- 🕵️ **Privacy & Anonymization**:
-  - 🛑 Includes various tools for **privacy protection and anonymization**.
-  - 💾 Can be run as a **live CD, USB, or installed on a system**.
-- 📌 **Tool Sources**: Tools are sourced from **Debian repositories** and **GitHub pages**.
+## 🔥 Key Features
 
-## ⚙️ Installation & Usage
+### 🏗️ **Base System & Core Technologies**
+- **Built on:** 🏗️ **Debian 12 Stable** for long-term reliability.
+- **Linux Kernel:** 🐧 **6.6.15 LTS**, ensuring the latest hardware support and security patches.
+- **Custom Desktop Environments:** 🎨 Fully customized **Plasma, MATE, LXQT, and LXDE** desktops with a specialized security-focused menu.
 
-You can run Predator-OS in multiple ways:
+### 🛠️ **Pre-installed Tools & Security Enhancements**
+- Comes with **1,200+ powerful security tools**, organized into:
+  - 🗂️ **40 different categories** (Network Security, Digital Forensics, Web Exploitation, etc.)
+  - 🎛️ **9 operational modes** (Offensive, Defensive, Anonymity, etc.)
+- Hardened **default configurations** to minimize attack surface.
+- 🔥 Preconfigured **firewall & intrusion detection systems**.
 
-```sh
-# 🚀 Live Mode: Boot from a USB drive or DVD without installation.
-# 🔄 Persistent Mode: Use a USB with persistent storage to save changes.
-# 💾 Installation Mode: Fully install Predator-OS on your system.
-```
+### 🕵️ **Privacy & Anonymization**
+- 🛑 Includes multiple **privacy-enhancing tools** to protect identity.
+- 📡 Anonymous browsing support with **Tor, I2P, and VPN utilities**.
+- 🔏 Strong encryption tools for **secure communications and data protection**.
 
-## 📥 Download
+### 📌 **Tool Sources & Updates**
+- 🏛️ Tools sourced from **Debian repositories, GitHub, and specialized security repositories**.
+- 🔄 Regular updates for tools, security patches, and performance enhancements.
 
-To get the latest Predator-OS ISO, visit the [🌍 official website](https://predator-os.ir/download/#Header_wrapper)
+---
 
+## 🛠️ Installation & Usage
 
+Predator-OS provides multiple ways to use it depending on your needs:
 
+### 🔹 **Live Mode** (No Installation Required)
+🔹 Boot Predator-OS from a **USB drive or DVD** to test features without modifying your system.
+
+### 🔹 **Persistent Mode** (Save Changes on USB)
+🔹 Run Predator-OS from a **USB with persistent storage**, allowing you to save settings and installed tools.
+
+### 🔹 **Full Installation Mode**
+🔹 Install Predator-OS on your **hard drive** for complete customization and long-term use.
+
+#### 🖥️ **System Requirements**
+✅ **Minimum:** 2GB RAM, 20GB Storage, Intel/AMD 64-bit Processor
+✅ **Recommended:** 4GB+ RAM, SSD Storage for better performance
+
+---
+
+## 📥 Download & Documentation
+
+🔹 **Official Download:** [🌍 Predator-OS Website](https://predator-os.ir/download/#Header_wrapper)
+---
