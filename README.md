@@ -51,18 +51,6 @@ Predator-OS provides multiple ways to use it depending on your needs:
 
 Here is an image of my machine
 ![image](https://github.com/user-attachments/assets/07a0bc84-905b-4e4a-86aa-0a747319dc70)
-
-![image](https://github.com/user-attachments/assets/c1abeb6c-b483-40bf-9252-1e9fc605e0f8)
-
-![image](https://github.com/user-attachments/assets/f68bc06f-a3dc-40af-b510-37984a063cd2)
-
-![image](https://github.com/user-attachments/assets/2dc76ca0-056e-4023-8c5d-9735aa8f0c03)
-
-![image](https://github.com/user-attachments/assets/23764221-a530-470c-8014-ced1630fc729)
-
-![image](https://github.com/user-attachments/assets/63fef4d2-0d73-4d85-8221-5b238002f930)
-
-
 ---
 
 ## 📥 Download 
