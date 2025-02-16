@@ -50,6 +50,7 @@ Predator-OS provides multiple ways to use it depending on your needs:
 ## 🖼️ Machine
 
 Here is an image of my machine
+
 ![image](https://github.com/user-attachments/assets/07a0bc84-905b-4e4a-86aa-0a747319dc70)
 ---
 
